@@ -1,1 +1,101 @@
+table {
+    border: 0.5px solid #000000;
+}
+
+th,
+td {
+    border: 0.5px solid #000000;
+    text-align: center;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+    padding: 10px;
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: brown;
+}
+
+a:visited {
+    color: burlywood;
+}
+
+a:hover {
+    color: rosybrown;
+}
+
+a:active {
+    color: sandybrown;
+}
+
+thead {
+    font-size: 125%;
+}
+
+p {
+    background-color: antiquewhite;
+}
+
+tr:nth-of-type(even) {
+    background-color:darksalmon;
+}
+
+#summer:nth-child(1) {
+    background-color:chocolate;
+    font-weight: bold;
+    color: cornsilk;
+}
+
+#fall:nth-child(1) {
+    background-color: chocolate;
+    font-weight: bold;
+    color: cornsilk;
+}
+
+#spring:nth-child(1) {
+    background-color: chocolate;
+    font-weight: bold;
+    color: cornsilk;
+}
+
+#fall2:nth-child(1) {
+    background-color: chocolate;
+    font-weight: bold;
+    color: cornsilk;
+}
+
+#total:nth-child(1) {
+    background-color: chocolate;
+    font-weight: bold;
+    color: cornsilk;
+}
+
+th {
+    background-color: brown;
+}
+
+caption {
+    font-weight: bold;
+}
+
+h1 {
+    color:brown;
+    text-shadow: 1px 2px #000000;
+    margin: auto;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h3 {
+    color: coral;
+}
 
