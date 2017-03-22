@@ -17,6 +17,7 @@ nav li {
 
 a {
     text-decoration: none;
+    margin: 10px;
 }
 
 a:link {
@@ -44,11 +45,11 @@ p {
 }
 
 tr:nth-of-type(even) {
-    background-color:darksalmon;
+    background-color: darksalmon;
 }
 
 #summer:nth-child(1) {
-    background-color:chocolate;
+    background-color: chocolate;
     font-weight: bold;
     color: cornsilk;
 }
@@ -86,7 +87,7 @@ caption {
 }
 
 h1 {
-    color:brown;
+    color: brown;
     text-shadow: 1px 2px #000000;
     margin: auto;
 }
@@ -98,4 +99,3 @@ body {
 h3 {
     color: coral;
 }
-
