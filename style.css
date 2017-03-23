@@ -76,6 +76,22 @@ th {
 tr:nth-of-type(odd) {
     background: #ddd;
 }
+footer {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+    color: #fff;
+    background: #000;
+}
+footer a {
+    color: red;
+    text-decoration: none;
+}
 .bold {
     font-weight: bold;
 }
