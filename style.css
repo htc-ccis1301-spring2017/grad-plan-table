@@ -1,1 +1,104 @@
+table {
+    border: 1px solid #3399CC;
+}
 
+th,
+td {
+    border: 1px solid #3399CC;
+    text-align: center;
+}
+
+nav li {
+    display: inline;
+    list-style-type: none;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: orange;
+}
+
+thead {
+    font-size: 125%;
+}
+
+p {
+    background-color: yellowgreen;
+}
+
+tr:nth-of-type(even) {
+    background-color: green;
+}
+
+#spring:nth-child(1) {
+    background-color: blue;
+    color: cornsilk;
+    font-weight: bold;
+}
+
+#fall:nth-child(1) {
+    background-color: blue;
+    color: cornsilk;
+    font-weight: bold;   
+}
+
+#spring2:nth-child(1) {
+    background-color: blue;
+    color: cornsilk;
+    font-weight: bold;
+}
+
+#fall2:nth-child(1) {
+    background-color: blue;
+    color: cornsilk;
+    font-weight: bold;
+}
+
+#total:nth-child(1) {
+    background-color: navy;
+    color: cornsilk;
+    font-weight: bold;
+}
+
+th {
+    background-color: greenyellow;
+}
+
+caption {
+    font-weight: bold;
+}
+
+h1 {
+    color:blue;
+    font-family:fantasy;
+    margin: auto;
+    text-shadow: 1px 2px #000000;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h3 {
+    color: green;
+}
+
+footer {
+    text-align: center;
+}
