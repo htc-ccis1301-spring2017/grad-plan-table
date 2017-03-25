@@ -1,1 +1,54 @@
 
+table {
+    border: 1px solid #3399CC;
+    border-spacing: 0;
+}
+
+
+
+td {
+    border: 1px solid #3399CC;
+    align-content: center;
+    padding: 5px;
+    
+}
+
+
+th {
+    background-color: #4483a3;
+    padding: 10px;
+    
+}
+
+tfoot{
+    
+}
+
+
+nav li {
+    list-style-type: none;
+    margin-left: auto;
+    font-size: 1.2em;
+    display: inline;
+    
+}
+
+
+
+nav a{
+    display: inline;
+    text-decoration: none;
+    
+}
+
+nav a:link{
+    color: #4483a3;
+}
+
+
+#wrapper{
+    
+    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+}
